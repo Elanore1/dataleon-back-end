@@ -1,0 +1,2 @@
+pytest
+azure-ai-language-conversations
