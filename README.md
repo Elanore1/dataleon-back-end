@@ -33,7 +33,7 @@ pip install -r requirements.txt
 - Clone this repository, from your local machine :
 
 ```bash
-git clone 
+git clone https://github.com/Elanore1/dataleon-back-end.git
 ```
  
 -   Run tests : 
