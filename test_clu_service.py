@@ -3,8 +3,8 @@ from clu_service import CluService # importing our CluService class
 
 ## Create a new Language service ressource on Azure AI services
 ## Replace this value with your actual endpoint and API key
-endpoint = 'https://en-language-ressource.cognitiveservices.azure.com/'
-subscription_key = 'ec402379800449999dd695862b146b7a'
+endpoint = 'https://your-ressource-language.cognitiveservices.azure.com/' # your ressource endpoint
+subscription_key = 'XXXXXXXXXXXXXXXXXXXXXX' #your ressource language key
 
 @pytest.fixture # test fixture decorator
 def clu_service():
