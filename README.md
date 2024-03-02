@@ -83,8 +83,8 @@ In the get_intent() method from [clu_service.py](clu_service.py), specified in '
 
 ```py
     "parameters": {
-        "projectName": "dataleon-CLU-engine", #CLU project name
-        "deploymentName": "deployement1", #CLU deployement name
+        "projectName": "Your-Project-Name", #CLU project name
+        "deploymentName": "Your-Deployement-Name", #CLU deployement name
         "verbose": True
     }
 ```
